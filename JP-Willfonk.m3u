@@ -119,7 +119,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="mnet" tvg-logo="https://commons.wikimedia.org/wiki/File:Mnet.png" group-title="CS",Mnet
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/512px-CNNj_channel_logo.svg.png" group-title="CS",CNN j
+#EXTINF:-1 tvg-id="cnnj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CNNj_channel_logo.svg/512px-CNNj_channel_logo.svg.png" group-title="CS",CNN J
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/FOX_ESPA%C3%91A_LOGO.png/800px-FOX_ESPA%C3%91A_LOGO.png" group-title="CS",FOX
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
