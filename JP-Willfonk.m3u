@@ -64,7 +64,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="fishingvision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS",釣りビジョン
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="bsskyperfectv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png" group-title="BS",BS SkyPerfecTV (720p Willfonk)
+#EXTINF:-1 tvg-id="bsskyperfectv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bs_sky_perfect_241.png" group-title="BS",BS SkyPerfecTV 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="js1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/2560px-J_Sports_Logo.svg.png" group-title="BS",JSport 1 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -99,7 +99,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="CS",ホームドラマチャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS",LaLaTV (720p Willfonk)
+#EXTINF:-1 tvg-id="LaLaTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lala_tv.png" group-title="CS",LaLaTV 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="NitteleGPlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-166-400x400.png" group-title="CS",日テレジータス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -107,7 +107,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="CS",ムービープラス
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS",Music ON TV! (720p Willfonk)
+#EXTINF:-1 tvg-id="MusicOnTV.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/music_on_tv.png" group-title="CS",Music ON TV! 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="CS",東映チャンネル
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
