@@ -30,4 +30,4 @@ http://203.162.235.41:23102
 #EXTINF:-1 group-title="BS" tvg-id="bsfuji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/BS_FUJI_Logo.jpg", BSフジ
 http://203.162.235.41:22101
 #EXTINF:-1 group-title="BS" tvg-id="wowowprime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOWプライム 
-http://203.162.235.41:27106
+http://203.162.235.41:27106 
