@@ -66,15 +66,15 @@ https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 https://epg.pw/stream/aed49411360a447f744368195efe28fa85f9092a0aeb70773510d25baa51ddb4.ctv 
 #EXTINF:-1 group-title="CS" tvg-id="tbsch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
 https://epg.pw/stream/ef9a2093cf38a91914eaf6213269891cb371c86a7ab260bca0b2e31ecad1daef.ctv
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビＯＮＥ　スポーツ・バラエティ
+#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
 
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビＴＷＯ　ドラマ・アニメ
+#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
 
-#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.613.png",フジテレビＮＥＸＴ　ライブ・プレミアム
-
+#EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.613.png",フジテレビNEXT　ライブ・プレミアム
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="asahinews" tvg-logo="https://i.imgur.com/DuGepQp.jpg", 朝日新聞デジタル
 https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="ChukyoTVNews" tvg-logo="https://i.imgur.com/fSNc0jP.png", 中京テレビNEWS 
+#EXTINF:-1 group-title="CS" tvg-id="ChukyoTVNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CHUKYO_TV_logo.svg/640px-CHUKYO_TV_logo.svg.png", 中京テレビNEWS 
 https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="TVShizuoka" tvg-logo="https://i.imgur.com/HxBu6ce.png",テレビ静岡
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
@@ -96,6 +96,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="musicon" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/653.png", MUSIC ON! TV（エムオン!）
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.640.png", MTV
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
 http://asia.vthanhtivi.pw/MTV/index.m3u8
 
