@@ -20,7 +20,7 @@ http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1
 https://epg.pw/stream/e2b92fd929b922d75436b52ce86f27a397d51bea0acddcc0fc12c6eac19ee812.ctv
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSP4K
-https://epg.pw/stream/d3cc66985cd05762d9a34c8b2771018c1424e5929ce9453e4d2c329edac8c02f.ctv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K
 https://epg.pw/stream/528e5267f00962808d36bd8ff4985ab9ce49ad9b662203ca85b6cad47fb9f84d.ctv
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
