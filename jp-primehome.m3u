@@ -17,7 +17,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&b
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=0
 #BS
-#EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS1
+#EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png", NHK BSプレミアム 4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
