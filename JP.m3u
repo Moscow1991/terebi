@@ -16,6 +16,8 @@ https://epg.pw/stream/67fc5b7c1c63ecc56febda9bbe5ecfb06e41c0f39656bc20336ec9ef1f
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
 http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX2
+https://epg.pw/stream/d048f6677eccf08940f3d57b083079c23c04c2fd0ce4b0a043c34b452d3aac86.m3u8
 #BS
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/640px-NHK_BS_2023_logo.svg.png", NHK BS
 https://epg.pw/stream/e2b92fd929b922d75436b52ce86f27a397d51bea0acddcc0fc12c6eac19ee812.ctv
