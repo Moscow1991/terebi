@@ -96,7 +96,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="kayopops" tvg-logo="https://i.imgur.com/7VcFGkx.png", 歌謡ポップスチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="CS" tvg-id="movieplus" tvg-logo="https://https://i.imgur.com/3OTLJpi.png", ムービープラス
+#EXTINF:-1 group-title="CS" tvg-id="movieplus" tvg-logo="https://i.imgur.com/3OTLJpi.png", ムービープラス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="bbcnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png", BBC NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&bind=0&uin=159413&playseek=0
