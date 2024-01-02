@@ -124,7 +124,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=10&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="takarazuka" tvg-logo="https://i.imgur.com/Al1A8t2.png", タカラヅカ・スカイ・ステージ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="CS" tvg-id="gingach" tvg-logo="https://https://i.imgur.com/zfvyspc.png", チャンネル銀河
+#EXTINF:-1 group-title="CS" tvg-id="gingach" tvg-logo="https://i.imgur.com/zfvyspc.png", チャンネル銀河
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="nihoneiga" tvg-logo="https://i.imgur.com/PzwtC9K.png", 日本映画専門チャンネル  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
