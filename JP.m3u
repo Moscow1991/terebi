@@ -82,7 +82,7 @@ https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="weathernews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/768px-Weathernews_logo.svg.png", Weathernews
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="HBCHokkaidoNews24" tvg-logo="https://i.imgur.com/vcGsZVD.png", HBC Hokkaido News 24 
+#EXTINF:-1 group-title="CS" tvg-id="HBCHokkaidoNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hbc_logo.svg/1024px-Hbc_logo.svg.png", HBC Hokkaido News 24 
 https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="HTBHokkaidoNews24" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB Hokkaido News 24
 https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
