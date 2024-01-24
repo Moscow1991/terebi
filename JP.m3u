@@ -86,6 +86,8 @@ https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="HTBHokkaidoNews24" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB Hokkaido News 24
 https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tosnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Oita_Tos_logo.svg/1024px-Oita_Tos_logo.svg.png",TOS NEWS
+https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
 https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="Neetball" tvg-logo="", Neetball
