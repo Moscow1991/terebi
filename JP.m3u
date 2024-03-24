@@ -26,7 +26,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&b
 #EXTINF:-1 group-title="BS" tvg-id="nhkbs4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png", NHK BS4K
 
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://for-testonly.ra1n.lol/bs11/index.m3u8
+http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
 http://for-testonly.ra1n.lol/bs12/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", アニメシアターX (AT-X)
