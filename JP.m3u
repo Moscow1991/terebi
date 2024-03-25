@@ -28,7 +28,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&b
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
-http://for-testonly.ra1n.lol/bs12/index.m3u8
+
 #EXTINF:-1 group-title="BS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", アニメシアターX (AT-X)
 http://pipe.ra1n.lol/at-x/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", アニマックス (Animax)
@@ -89,7 +89,7 @@ https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tosnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Oita_Tos_logo.svg/1024px-Oita_Tos_logo.svg.png",TOS NEWS
 https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
-https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.m3u8
+
 #EXTINF:-1 group-title="CS" tvg-id="Neetball" tvg-logo="", Neetball
 https://neetball.net/live/neet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="wowowprime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOWプライム
