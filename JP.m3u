@@ -29,7 +29,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&b
 https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
 
-#EXTINF:-1 group-title="BS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
+#EXTINF:-1 group-title="BS" tvg-id="アニメシアターX（AT-X）.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://neetball.net/live/neet3.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="アニマックスＨＤ.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1 
@@ -72,16 +72,14 @@ https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
 
-#EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
+#EXTINF:-1 group-title="CS" tvg-id="フジテレビＮＥＸＴ　ライブ・プレミアム.jp" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="asahinews" tvg-logo="https://i.imgur.com/DuGepQp.jpg", 朝日新聞デジタル
 https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="chukyo_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CHUKYO_TV_logo.svg/640px-CHUKYO_TV_logo.svg.png", 中京テレビNEWS 
-https://ythls.armelin.one/channel/UCxiRdfyH0FtFCRZTRfRsdsA.m3u8
+
 #EXTINF:-1 group-title="CS" tvg-id="tv_shizuoka" tvg-logo="https://i.imgur.com/HxBu6ce.png",テレビ静岡
 https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="weathernews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/768px-Weathernews_logo.svg.png", Weathernews
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+
 #EXTINF:-1 group-title="CS" tvg-id="hbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hbc_logo.svg/1024px-Hbc_logo.svg.png", HBC Hokkaido News 24 
 https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="htb" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB Hokkaido News 24
@@ -94,12 +92,12 @@ https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 https://neetball.net/live/neet.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ＷＯＷＯＷプライム.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png", WOWOWプライム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="CS" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOWライブ 
+#EXTINF:-1 group-title="CS" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png", WOWOWライブ 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="CS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOWシネマ
+#EXTINF:-1 group-title="CS" tvg-id="ＷＯＷＯＷシネマ.jp" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png", WOWOWシネマ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="musicon" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/MUSIC%20ON!%20TV.png", MUSIC ON! TV（エムオン!）
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
+#EXTINF:-1 group-title="CS" tvg-id="MTV HD.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=10&bind=0&uin=159413&playseek=0
 
