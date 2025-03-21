@@ -76,18 +76,7 @@ https://ythls.armelin.one/channel/UCkKJhKO73xF1pK5h9R82ZGQ.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=06&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="CS" tvg-id="asahinews" tvg-logo="https://i.imgur.com/DuGepQp.jpg", 朝日新聞デジタル
-https://ythls.armelin.one/channel/UCMKvT0YVLufHMdGLH89J1oA.m3u8
 
-#EXTINF:-1 group-title="CS" tvg-id="tv_shizuoka" tvg-logo="https://i.imgur.com/HxBu6ce.png",テレビ静岡
-https://ythls.armelin.one/channel/UCFIlFvYMWkPE6uDcjdro1UA.m3u8
-
-#EXTINF:-1 group-title="CS" tvg-id="hbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hbc_logo.svg/1024px-Hbc_logo.svg.png", HBC Hokkaido News 24 
-https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="htb" tvg-logo="https://i.imgur.com/yqUItvM.png", HTB Hokkaido News 24
-https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tos_news" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Oita_Tos_logo.svg/1024px-Oita_Tos_logo.svg.png",TOS NEWS
-https://ythls.armelin.one/channel/UChx_y6aLWNkifSDUt2TVAzg.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
 
 #EXTINF:-1 group-title="CS" tvg-id="Neetball" tvg-logo="", Neetball
