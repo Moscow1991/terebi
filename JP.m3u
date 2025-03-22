@@ -53,7 +53,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=06&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=06&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", 関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=06&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="BS" tvg-id="tv_osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", テレビ大阪
+#EXTINF:-1 group-title="BS" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tv_osaka_logo.svg", テレビ大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=06&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", 読売テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=06&bind=0&uin=159413&playseek=0
