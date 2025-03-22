@@ -64,9 +64,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=06&b
 #CS
 
 
-#EXTINF:-1 group-title="CS" tvg-id="tbsch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBS チャンネル 1
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-1-jp.png", TBS チャンネル 1
  https://luong.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="tbsch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
+#EXTINF:-1 group-title="CS" tvg-id="tbs_ch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png", TBS チャンネル 2
 https://luong.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fujitvone" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
 
