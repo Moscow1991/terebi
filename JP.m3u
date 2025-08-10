@@ -65,21 +65,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=06&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=06&bind=0&uin=159413&playseek=0
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Tbsch1_longver.svg/revision/latest/scale-to-width-down/512", TBS チャンネル 1
-https://us.utako.moe/tbsch1/index.m3u8
+https://vn.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Tbsch2_jp2020.svg/revision/latest/scale-to-width-down/512", TBS チャンネル 2
-https://us.utako.moe/tbsch2/index.m3u8
+https://vn.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TV%20Asahi%20Channel%201.png", テレ朝チャンネル 1
 https://stream1.freetv.fun/45461de190bd01c0bc34b5a62647a645f35a45b01e17c4085b013ad7ec9ae8dd.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TV%20Asahi%20Channel%202.png", テレ朝チャンネル 2
 https://stream1.freetv.fun/2f67fc15c86f3a39ae4ad5932461563603da383215facb301507ad76658f1d8a.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
-https://us.utako.moe/fuji_one/index.m3u8
+https://vn.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
-https://us.utako.moe/fuji_two/index.m3u8
+https://vn.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=06&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TABI%20Channel.png",Tabi Channel
-https://us.utako.moe/toei/index.m3u8
+https://vn.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
 
 #EXTINF:-1 group-title="CS" tvg-id="Neetball" tvg-logo="", Neetball
