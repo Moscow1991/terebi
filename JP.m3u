@@ -72,9 +72,9 @@ https://mt02.utako.moe/tbsch2/index.m3u8
 https://mt02.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TV%20Asahi%20Channel%202.png", テレ朝チャンネル 2
 https://mt02.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.614.png",フジテレビONE　スポーツ・バラエティ
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AF%EF%BC%AE%EF%BC%A5-removebg-preview.png",フジテレビONE　スポーツ・バラエティ
 https://mt02.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.615.png",フジテレビTWO　ドラマ・アニメ
+#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%B4%EF%BC%B7%EF%BC%AF.png",フジテレビTWO　ドラマ・アニメ
 https://mt02.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=06&bind=0&uin=159413&playseek=0
@@ -96,5 +96,6 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:2
 https://mt02.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
