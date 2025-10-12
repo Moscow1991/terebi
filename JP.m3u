@@ -28,15 +28,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=06&b
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png", NHK BSP4K-test
 https://mt01.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png", BS10
-https://mt01.utako.moe/bs10/index.m3u8
+
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 https://mt01.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/jp/Ch.222.png", BS12
-https://mt01.utako.moe/bs12/index.m3u8
+
 #EXTINF:-1 group-title="BS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png", Animax
-https://mt02.utako.moe/Animax/index.m3u8
+https://ca01.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png", BS 日テレ
 https://mt01.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/Bs_Asahi_Logo.png", BS 朝日
@@ -48,7 +48,7 @@ https://mt01.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/BSフジ.png", BS フジ
 https://mt01.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="ntv_news24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/1600px-News24.svg.png", 日テレNEWS 24
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 group-title="BS" tvg-id="tbs_news" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/TBS_News.png", TBS NEWS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=06&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="BS" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/640px-Mainichi_Broadcasting_System_logo.svg.png", MBS
@@ -65,21 +65,21 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=06&b
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=06&bind=0&uin=159413&playseek=0
 #CS
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Tbsch1_longver.svg/revision/latest/scale-to-width-down/512", TBS チャンネル 1
-https://mt02.utako.moe/tbsch1/index.m3u8
+https://ca01.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Tbsch2_jp2020.svg/revision/latest/scale-to-width-down/512", TBS チャンネル 2
-https://mt02.utako.moe/tbsch2/index.m3u8
+https://ca01.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TV%20Asahi%20Channel%201.png", テレ朝チャンネル 1
-https://mt02.utako.moe/ex_ch1/index.m3u8
+https://ca01.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TV%20Asahi%20Channel%202.png", テレ朝チャンネル 2
-https://mt02.utako.moe/ex_ch2/index.m3u8
+https://ca01.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AF%EF%BC%AE%EF%BC%A5-removebg-preview.png",フジテレビONE　スポーツ・バラエティ
-https://mt02.utako.moe/fuji_one/index.m3u8
+https://ca01.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%B4%EF%BC%B7%EF%BC%AF.png",フジテレビTWO　ドラマ・アニメ
-https://mt02.utako.moe/fuji_two/index.m3u8
+https://ca01.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%EF%BC%AE%EF%BC%A5%EF%BC%B8%EF%BC%B4.png",フジテレビNEXT　ライブ・プレミアム
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=06&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/refs/heads/main/TABI%20Channel.png",Tabi Channel
-https://mt02.utako.moe/tabi/index.m3u8
+https://ca01.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="aniplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/640px-Aniplus_logo.svg.png", Aniplus
 
 #EXTINF:-1 group-title="CS" tvg-id="Neetball" tvg-logo="", Neetball
@@ -93,9 +93,10 @@ https://mt01.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="musicon" tvg-logo="https://raw.githubusercontent.com/Moscow1991/Logo/main/MUSIC%20ON!%20TV.png", MUSIC ON! TV（エムオン!）
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id=mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/640px-MTV_2021_%28brand_version%29.svg.png", MTV
-https://mt02.utako.moe/mtv/index.m3u8
+https://ca01.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="JapaNews24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/640px-ANN_logo.svg.png", ANN JapaNews24 
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+
 
 
 
